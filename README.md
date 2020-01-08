@@ -3,3 +3,7 @@ Here we analyze and calculate statistical values given a dataset of home prices 
 
 ![Hello](img/Picture1.png)
 ![Hi](img/Picture2.png)
+![Yo](img/Picture3.png)
+![Heyo](img/Picture4.png)
+![Hola](img/Picture5.png)
+![Salut](img/Picture6.png)
